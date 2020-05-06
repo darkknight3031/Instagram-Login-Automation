@@ -1,8 +1,16 @@
+
+<p align="center">
+  <a href="https://instagram.com/">
+    <img src="Images/insta20.png" alt=" logo" wiinstadth="72" height="72">
+  </a>
+</p>
+
+<h1 align ="center">
 # Instagram-Login-Automation
+</h1>
 Automatically Login instagram using your credential with the help of Selenium.
 
 ## Requirements
 Install Selenium 
 `pip install selenium`
-
 
