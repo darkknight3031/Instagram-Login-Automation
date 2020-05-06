@@ -13,7 +13,5 @@ Automatically Login instagram using your credential with the help of Selenium.
 </p>
 
 ## Requirements
-Install Selenium 
-
-`pip install selenium`
+Install Selenium:  `pip install selenium`
 
