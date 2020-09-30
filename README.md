@@ -1,3 +1,4 @@
+# Instagram-Login-Automation
 
 <p align="center">
   <a href="https://instagram.com/">
@@ -6,13 +7,12 @@
 </p>
 
 <h1 align ="center">
-# Instagram-Login-Automation
 </h1>
 <p align="center">
 Automatically Login instagram using your credential with the help of Selenium.
 </p>
 
-## Requirements
+# Requirements
 Install Selenium:  `pip install selenium`
 
 **Fill the credential**
